@@ -1,25 +1,31 @@
 # JaHacks
 
-Full-stack product engineer focused on AI workflows, document systems, and fast iteration with clean delivery standards.
+Full-stack product engineer building workflow-heavy software where correctness,
+state management, authorization, and user trust matter.
 
 - Website: [dayonedevs.com](https://dayonedevs.com)
 - Portfolio hub: [JahacksV1/DevSite](https://github.com/JahacksV1/DevSite)
 
-## Selected work
 
-- [day-one-agent-kit](https://github.com/JahacksV1/day-one-agent-kit)  
-  Portable engineering standards kit used for repeatable repo audits, CI setup, and delivery handoff quality.
 
-- [document-workflow-showcase](https://github.com/JahacksV1/document-workflow-showcase)  
-  Public-safe TypeScript showcase for deterministic document workflows, approval gates, and audit events.
+My work focuses on:
 
-- [letter-generator-showcase](https://github.com/JahacksV1/letter-generator-showcase)  
-  Fictional-data prototype for structured letter generation with validation and test coverage.
+- AI-assisted workflows with deterministic safety boundaries
+- Document review and automation systems
+- Multi-step business workflows, approvals, and audit history
+- SaaS foundations: identity, billing, webhooks, storage, and API design
+- Migration and stabilization work for evolving product codebases
 
-- [DevSite](https://github.com/JahacksV1/DevSite)  
-  Day One Devs portfolio and client-intake website built with Next.js and TypeScript.
+## Selected public work
 
-## Core stack
+- **Day One Agent Kit** — portable engineering standards, audit workflows,
+  CI setup guidance, and delivery handoff templates.
+- **Document Workflow Showcase** — a public-safe TypeScript demonstration of
+  deterministic review stages, approval gates, and audit events.
+- **Letter Generator Showcase** — a fictional-data prototype showing validated
+  intake, template assembly, disclaimers, and human review boundaries.
+- **DevSite** — the Day One Devs portfolio and client-intake application.
 
-TypeScript, Next.js, React, Supabase, Node.js, API integrations, test-first workflow for critical modules.
-
+> Public repositories are intentionally sanitized. They demonstrate engineering
+> patterns and runnable code without exposing private customer data, production
+> credentials, or client-specific implementation.
